@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: 主页!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -13,9 +13,9 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 In `_config.yml` remember to specify your own data:
     
-    title : My Blog =)
+    title :xuwenshg 
     
-    author :
+    author : xuwenshg
       name : xuwenshg
       email : xuwenshg@email.test
       github : xuwenshg
