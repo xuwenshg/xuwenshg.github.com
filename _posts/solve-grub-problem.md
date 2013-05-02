@@ -1,7 +1,16 @@
-ubuntu@ubuntu:~$ sudo fdisk -lu /dev/sd
-sda   sda1  sda2  sda3  sda5  sda6  sda7  sda8  sda9  sdb   sdb4  
-ubuntu@ubuntu:~$ sudo fdisk -lu /dev/sda
-
+---
+layout: post
+title: "Hello Workd"
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}
+------------------------------------------------------------------------------
+      $ sudo fdisk -lu /dev/sd
+      sda   sda1  sda2  sda3  sda5  sda6  sda7  sda8  sda9  sdb   sdb4  
+      $ sudo fdisk -lu /dev/sda
+-----------------------------------------------------------------------------
 Disk /dev/sda: 320.1 GB, 320072933376 bytes
 255 heads, 63 sectors/track, 38913 cylinders, total 625142448 sectors
 Units = sectors of 1 * 512 = 512 bytes
@@ -23,7 +32,7 @@ Partition 7 does not start on physical sector boundary.
 /dev/sda9       527890432   612993023    42551296   83  Linux
 
 Partition table entries are not in disk order
-
-ubuntu@ubuntu:~$ sudo mount /dev/sda9 /mnt
-ubuntu@ubuntu:~$ sudo grub-install --root-directory=/mnt /dev/sda
-Installation finished. No error reported.
+---------------------------------------------------------------------------------
+      $ sudo mount /dev/sda9 /mnt
+      $ sudo grub-install --root-directory=/mnt /dev/sda
+      Installation finished. No error reported.
