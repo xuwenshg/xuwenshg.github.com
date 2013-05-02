@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Hello Workd"
+title: "Solve ubuntu-amd64 grub rescue problem"
 description: ""
 category: 
-tags: []
+tags: [ubuntu]
 ---
 {% include JB/setup %}
 ------------------------------------------------------------------------------
