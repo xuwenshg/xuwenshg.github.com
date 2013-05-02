@@ -3,7 +3,7 @@ layout: post
 title: "Solve ubuntu-amd64 grub rescue problem"
 description: ""
 category: 
-tags: [ubuntu]
+tags: []
 ---
 {% include JB/setup %}
 ------------------------------------------------------------------------------
