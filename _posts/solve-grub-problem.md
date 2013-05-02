@@ -31,7 +31,7 @@ Partition 7 does not start on physical sector boundary.
 /dev/sda8       612999168   625141759     6071296   82  Linux swap / Solaris
 /dev/sda9       527890432   612993023    42551296   83  Linux
 
-Partition table entries are not in disk order
+
 ---------------------------------------------------------------------------------
       $ sudo mount /dev/sda9 /mnt
       $ sudo grub-install --root-directory=/mnt /dev/sda
