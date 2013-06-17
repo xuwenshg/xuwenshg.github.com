@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello Workd"
+title: "Hello World"
 description: ""
 category: 
 tags: []
