@@ -14,4 +14,4 @@ hello, every one.my name is `Vincent`, I'am glad you come to my space and to mak
     $ command
     $ sudo apt-get install gnome-shell
     $ sudo apt-get install python
-    $ py setup.py
+    $ python hello.py
