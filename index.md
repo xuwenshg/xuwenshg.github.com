@@ -9,7 +9,7 @@ welcome to [my home pages](http://xuwenshg.github.com)
 
 ## welcome
 
-hello, every one.my name is `Vincent`, I'am glad you come to my space and to make friends with you.
+hello, every one.my name is `xuwenshg`, I'am glad you come to my space and to make friends with you.
     
     $ command
     $ sudo apt-get install gnome-shell
